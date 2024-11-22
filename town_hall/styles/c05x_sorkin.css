@@ -1,4 +1,44 @@
+/* Style for the HTML element */
+html {
+  background-color: yellow;
+}
+
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
+	width: 650px;
+	margin: 0 auto;
+	border: 5px double blue;
+  padding: 10px;
 }
+
+/* Style for the main element */
+main {
+  padding: 20px;
+  border-top: 3px solid blue;
+}
+
+/* Style for the footer */
+footer {
+  border-top: 3px solid blue;
+  text-align: center; 
+  font-size: 90%; 
+  font-weight: bold; 
+  margin: 20px 0;
+  padding: 10px;
+}
+
+/* Styles for headings (h1, h2, h3) */
+h1 {
+  font-size: 150%; 
+  color: blue; 
+  margin: 10px 0; 
+
+h2 {
+  font-size: 125%; /
+  color: blue; 
+  margin: 10px 0;
+}
+
+h3 {
+  font-size: 115%; 
