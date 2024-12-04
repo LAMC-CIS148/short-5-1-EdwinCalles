@@ -55,6 +55,7 @@ p, blockquote, ul, li {
 cite {
   color: blue; 
   font-style: normal; 
+	margin-bottom: 10px;
 }
 
 
