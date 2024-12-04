@@ -1,6 +1,6 @@
 /* Style for the HTML element */
 html {
-  background-color: white;
+  background-color: yellow;
 }
 
 body {
@@ -35,7 +35,7 @@ h1 {
   margin: 10px 0; 
 
 h2 {
-  font-size: 125%; /
+  font-size: 125%;
   color: blue; 
   margin: 10px 0;
 }
